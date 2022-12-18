@@ -16,3 +16,6 @@ JavaScript, CSS, HTML
 6. 이미 입력한 숫자를 또 입력하면, 알려준 후 기회를 깍지않는다.
 7. eset 버튼을 누르면 게임이 리셋된다.
 8. 5번의 기회를 다쓰면 게임이 끝나고 Go버튼을 더이상누를수없다.
+
+## 도메인
+https://up-down-game-gyuri.netlify.app/
